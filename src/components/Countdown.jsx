@@ -84,7 +84,7 @@ export default function Countdown() {
           </div>
 
           <p className="text-gray-600 text-xs font-mono mt-8">
-            * Target: 1 September 2026 — Sesuaikan tanggal di Countdown.jsx
+            Catatan: Tanggal mulai semester 5 dapat berubah sesuai kebijakan kampus.
           </p>
         </motion.div>
       </div>
