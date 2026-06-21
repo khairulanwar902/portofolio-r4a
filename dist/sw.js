@@ -2,8 +2,8 @@ const CACHE = 'r4a-cache-v1'
 const ASSETS = [
   '/',
   '/index.html',
-  '/foto-kelas-1.jpg',
-  '/foto-kelas-2.jpg',
+  '/foto-kelas-1.jpeg',
+  '/foto-kelas-2.jpeg',
   '/music.mp3',
 ]
 
