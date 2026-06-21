@@ -13,6 +13,7 @@ export const NAV_LINKS = [
   { href: '#gallery',    label: 'Galeri' },
   { href: '#vision',     label: 'Visi & Misi' },
   { href: '#contact',    label: 'Kontak' },
+  { href: '#members', label: 'Anggota' },
 ]
 
 // ---- Stats ----

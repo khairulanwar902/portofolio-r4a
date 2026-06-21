@@ -3,6 +3,7 @@
    Portfolio Kelas R4A - Teknik Informatika UNINDRA
    ============================================ */
 
+import Members from './components/Member.jsx'
 import Countdown   from './components/Countdown.jsx'
 import MusicPlayer from './components/MusicPlayer.jsx'
 import React, { useState, useEffect } from 'react'
@@ -69,6 +70,7 @@ export default function App() {
             <Skills />
             <Gallery />
             <VisionMission />
+            <Members />
             <Countdown />
             <Contact />
           </main>
