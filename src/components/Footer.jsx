@@ -31,12 +31,12 @@ export default function Footer() {
                 R4
               </div>
               <div>
-                <div className="text-white font-display font-bold">KELAS R4A</div>
+                <div className="text-white font-display font-bold">KELAS RA</div>
                 <div className="text-gray-600 text-xs font-mono">Teknik Informatika</div>
               </div>
             </div>
             <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
-              Website portofolio resmi Kelas R4A Program Studi Teknik Informatika
+              Website portofolio resmi Kelas RA Program Studi Teknik Informatika
               Universitas Indraprasta PGRI — Angkatan 2024.
             </p>
           </motion.div>
@@ -81,7 +81,7 @@ export default function Footer() {
               </div>
               <div className="flex gap-2">
                 <span className="text-gray-700">Kelas</span>
-                <span className="text-gray-400">R4A</span>
+                <span className="text-gray-400">RA</span>
               </div>
               <div className="flex gap-2">
                 <span className="text-gray-700">Angk.</span>
@@ -106,11 +106,11 @@ export default function Footer() {
         <div className="border-t border-white/[0.04] pt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-gray-600 text-xs text-center sm:text-left">
-              © 2026 Kelas R4A · Teknik Informatika · Universitas Indraprasta PGRI. All rights reserved.
+              © 2026 Kelas RA · Teknik Informatika · Universitas Indraprasta PGRI. All rights reserved.
             </p>
             <p className="text-gray-700 text-xs flex items-center gap-1.5">
               Dibuat dengan <FaHeart size={10} className="text-rose-600" /> dan <FaCode size={10} className="text-primary-500" />
-              oleh Kelas R4A
+              oleh Kelas RA
             </p>
           </div>
         </div>

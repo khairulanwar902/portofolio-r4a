@@ -118,7 +118,7 @@ export default function Skills() {
           <h2 className="section-title mt-3">Skills yang Dipelajari</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Berbagai teknologi dan tool yang dikuasai mahasiswa kelas R4A melalui pembelajaran intensif dan proyek nyata.
+            Berbagai teknologi dan tool yang dikuasai mahasiswa kelas RA melalui pembelajaran intensif dan proyek nyata.
           </p>
         </motion.div>
 

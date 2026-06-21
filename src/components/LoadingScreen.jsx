@@ -56,7 +56,7 @@ export default function LoadingScreen({ onComplete }) {
             Universitas Indraprasta PGRI
           </div>
           <h1 className="text-5xl font-display font-bold text-gradient mb-1">
-            R4A
+            RA
           </h1>
           <div className="text-gray-500 text-sm font-mono tracking-wider">
             Teknik Informatika · 2024

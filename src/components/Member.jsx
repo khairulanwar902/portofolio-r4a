@@ -90,10 +90,10 @@ export default function Members() {
           className="text-center mb-12"
         >
           <span className="glass-tag mb-4 inline-block">Tim Kami</span>
-          <h2 className="section-title mt-3">Anggota Kelas R4A</h2>
+          <h2 className="section-title mt-3">Anggota Kelas RA</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Mahasiswa-mahasiswa hebat yang bersama-sama membangun Kelas R4A menjadi kelas terbaik.
+            Mahasiswa-mahasiswa hebat yang bersama-sama membangun Kelas RA menjadi kelas terbaik.
           </p>
         </motion.div>
 

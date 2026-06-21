@@ -100,7 +100,7 @@ export default function Stats() {
           <h2 className="section-title mt-3">Statistik Kelas</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Perjalanan akademik Kelas R4A dalam beberapa angka penting yang mencerminkan pertumbuhan kami.
+            Perjalanan akademik Kelas RA dalam beberapa angka penting yang mencerminkan pertumbuhan kami.
           </p>
         </motion.div>
 

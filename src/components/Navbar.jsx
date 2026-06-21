@@ -69,7 +69,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
               <span className="absolute -top-1 -right-1 w-2.5 h-2.5 rounded-full bg-accent-400 border-2 border-dark-900 animate-pulse-slow" />
             </div>
             <div className="hidden sm:block">
-              <div className="text-white font-display font-semibold text-sm leading-none">KELAS R4A</div>
+              <div className="text-white font-display font-semibold text-sm leading-none">KELAS RA</div>
               <div className="text-gray-500 text-[10px] font-mono leading-none mt-0.5">Teknik Informatika · UNINDRA</div>
             </div>
           </a>

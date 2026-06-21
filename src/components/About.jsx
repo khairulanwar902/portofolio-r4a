@@ -10,7 +10,7 @@ import { FaUniversity, FaBook, FaLightbulb, FaUsers, FaCheckCircle } from 'react
 const INFO_CARDS = [
   { icon: FaUniversity, label: 'Universitas',   value: 'Universitas Indraprasta PGRI',      color: 'text-blue-400'   },
   { icon: FaBook,       label: 'Prodi',          value: 'Teknik Informatika',                  color: 'text-violet-400' },
-  { icon: FaUsers,      label: 'Kelas',          value: 'R4A',                               color: 'text-fuchsia-400'},
+  { icon: FaUsers,      label: 'Kelas',          value: 'RA',                               color: 'text-fuchsia-400'},
   { icon: FaLightbulb, label: 'Angkatan',        value: '2024 · Semester 4',                color: 'text-amber-400'  },
 ]
 
@@ -38,10 +38,10 @@ export default function About() {
           className="text-center mb-16"
         >
           <span className="glass-tag mb-4 inline-block">Tentang Kami</span>
-          <h2 className="section-title mt-3">Tentang Kelas R4A</h2>
+          <h2 className="section-title mt-3">Tentang Kelas RA</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Kelas R4A adalah bagian dari Program Studi Teknik Informatika UNINDRA,
+            Kelas RA adalah bagian dari Program Studi Teknik Informatika UNINDRA,
             tempat mahasiswa bersemangat bertumbuh bersama dalam satu ekosistem belajar yang kolaboratif.
           </p>
         </motion.div>
@@ -63,7 +63,7 @@ export default function About() {
                 Siapa Kami?
               </h3>
               <p className="text-gray-400 leading-relaxed mb-5">
-                Kelas R4A merupakan salah satu kelas terbaik di Program Studi Teknik Informatika
+                Kelas RA merupakan salah satu kelas terbaik di Program Studi Teknik Informatika
                 Universitas Indraprasta PGRI Angkatan 2024. Terdiri dari mahasiswa-mahasiswa
                 penuh semangat yang berkomitmen untuk menguasai dunia teknologi informasi secara
                 mendalam dan menyeluruh.
@@ -134,7 +134,7 @@ export default function About() {
                 bersama kita wujudkan mimpi menjadi profesional IT masa depan.
               </p>
               <div className="mt-3 text-right">
-                <span className="text-xs text-primary-400 font-mono">— Kelas R4A, UNINDRA 2024</span>
+                <span className="text-xs text-primary-400 font-mono">— Kelas RA, UNINDRA 2024</span>
               </div>
             </motion.div>
           </motion.div>

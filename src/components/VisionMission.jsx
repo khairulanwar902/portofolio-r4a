@@ -40,7 +40,7 @@ export default function VisionMission() {
           <h2 className="section-title mt-3">Visi & Misi</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Landasan semangat dan arah perjuangan Kelas R4A dalam menempuh pendidikan di era digital.
+            Landasan semangat dan arah perjuangan Kelas RA dalam menempuh pendidikan di era digital.
           </p>
         </motion.div>
 
@@ -67,7 +67,7 @@ export default function VisionMission() {
                   </div>
                   <div>
                     <div className="text-xs font-mono text-gray-500 uppercase tracking-widest">Visi</div>
-                    <h3 className="text-white font-display font-bold text-xl">Kelas R4A</h3>
+                    <h3 className="text-white font-display font-bold text-xl">Kelas RA</h3>
                   </div>
                 </div>
 
@@ -81,7 +81,7 @@ export default function VisionMission() {
                 {/* Decorative line */}
                 <div className="mt-6 pt-6 border-t border-white/5 flex items-center gap-3">
                   <div className="w-8 h-0.5 bg-gradient-to-r from-primary-500 to-accent-500 rounded-full" />
-                  <span className="text-xs text-gray-600 font-mono">UNINDRA · Teknik Informatika · R4A</span>
+                  <span className="text-xs text-gray-600 font-mono">UNINDRA · Teknik Informatika · RA</span>
                 </div>
               </div>
             </div>

@@ -1,5 +1,5 @@
 /* ============================================
-   DATA / CONSTANTS - PORTFOLIO KELAS R4A
+   DATA / CONSTANTS - PORTFOLIO KELAS RA
    ============================================ */
 
 // ---- Navigation Links ----
@@ -94,8 +94,8 @@ export const COURSES = [
 export const PROJECTS = [
   {
     id: 1,
-    title:       'Website Portofolio Kelas R4A',
-    desc:        'Website portofolio resmi Kelas R4A Teknik Informatika UNINDRA yang modern dan responsif menggunakan React JS, Vite, dan Tailwind CSS.',
+    title:       'Website Portofolio Kelas RA',
+    desc:        'Website portofolio resmi Kelas RA Teknik Informatika UNINDRA yang modern dan responsif menggunakan React JS, Vite, dan Tailwind CSS.',
     tech:        ['React JS', 'Tailwind CSS', 'Vite', 'Framer Motion'],
     color:       'from-blue-500/20 to-indigo-500/20',
     border:      'border-blue-500/20',

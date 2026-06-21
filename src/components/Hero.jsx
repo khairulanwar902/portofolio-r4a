@@ -81,7 +81,7 @@ export default function Hero() {
         >
           <span className="text-gradient neon-text">KELAS</span>
           <br />
-          <span className="text-white">R4A</span>
+          <span className="text-white">RA</span>
         </motion.h1>
 
         {/* Subtitle */}

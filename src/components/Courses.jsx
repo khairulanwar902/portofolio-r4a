@@ -34,7 +34,7 @@ export default function Courses() {
           <h2 className="section-title mt-3">Mata Kuliah Utama</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Tujuh mata kuliah inti yang membentuk kompetensi mahasiswa Teknik Informatika kelas R4A di semester ini.
+            Tujuh mata kuliah inti yang membentuk kompetensi mahasiswa Teknik Informatika kelas RA di semester ini.
           </p>
         </motion.div>
 

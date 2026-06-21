@@ -15,14 +15,14 @@ const REAL_PHOTOS = [
   {
     id: 'p1',
     src: '/foto-kelas-1.jpg',
-    title: 'Foto Bersama Kelas R4A',
+    title: 'Foto Bersama Kelas RA',
     caption: 'Momen kebersamaan di akhir semester bersama dosen tercinta 🙏',
     category: 'Foto Kelas',
   },
   {
     id: 'p2',
     src: '/foto-kelas-2.jpg',
-    title: 'Foto Bersama Kelas R4A',
+    title: 'Foto Bersama Kelas RA',
     caption: 'Kenangan indah bersama dosen yang selalu membimbing kami ❤️',
     category: 'Foto Kelas',
   },
@@ -147,7 +147,7 @@ export default function Gallery() {
           <span className="glass-tag mb-4 inline-block">Momen Berharga</span>
           <h2 className="section-title mt-3">Galeri Kegiatan</h2>
           <div className="section-divider" />
-          <p className="section-subtitle mt-6">Dokumentasi perjalanan dan kegiatan bersama Kelas R4A.</p>
+          <p className="section-subtitle mt-6">Dokumentasi perjalanan dan kegiatan bersama Kelas RA.</p>
         </motion.div>
 
         <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} className="mb-12">

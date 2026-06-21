@@ -33,7 +33,7 @@ export default function Projects() {
           <h2 className="section-title mt-3">Proyek Kelas</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Kumpulan proyek pembelajaran yang dikerjakan oleh mahasiswa kelas R4A sebagai wujud penguasaan kompetensi.
+            Kumpulan proyek pembelajaran yang dikerjakan oleh mahasiswa kelas RA sebagai wujud penguasaan kompetensi.
           </p>
         </motion.div>
 

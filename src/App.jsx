@@ -1,6 +1,6 @@
 /* ============================================
    APP.JSX - ROOT COMPONENT
-   Portfolio Kelas R4A - Teknik Informatika UNINDRA
+   Portfolio Kelas RA - Teknik Informatika UNINDRA
    ============================================ */
 
 import Members from './components/Member.jsx'

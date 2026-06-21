@@ -11,9 +11,9 @@ import {
 } from 'react-icons/fa'
 
 const SOCIAL_LINKS = [
-  { icon: FaInstagram, label: 'Instagram', handle: '@r4a_unindra',  href: '#', color: '#e1306c' },
-  { icon: FaGithub,    label: 'GitHub',    handle: 'r4a-unindra',   href: '#', color: '#ffffff' },
-  { icon: FaEnvelope,  label: 'Email',     handle: 'r4a@unindra.ac.id', href: 'mailto:r4a@unindra.ac.id', color: '#6366f1' },
+  { icon: FaInstagram, label: 'Instagram', handle: '@ra_unindra',  href: '#', color: '#e1306c' },
+  { icon: FaGithub,    label: 'GitHub',    handle: 'ra-unindra',   href: '#', color: '#ffffff' },
+  { icon: FaEnvelope,  label: 'Email',     handle: 'ra@unindra.ac.id', href: 'mailto:ra@unindra.ac.id', color: '#6366f1' },
 ]
 
 export default function Contact() {
@@ -65,7 +65,7 @@ export default function Contact() {
           <h2 className="section-title mt-3">Kontak</h2>
           <div className="section-divider" />
           <p className="section-subtitle mt-6">
-            Ingin berkolaborasi atau punya pertanyaan? Jangan ragu untuk menghubungi Kelas R4A.
+            Ingin berkolaborasi atau punya pertanyaan? Jangan ragu untuk menghubungi Kelas RA.
           </p>
         </motion.div>
 
@@ -83,7 +83,7 @@ export default function Contact() {
               <h3 className="text-white font-display font-bold text-2xl mb-2">Ayo Terhubung!</h3>
               <p className="text-gray-400 text-sm leading-relaxed mb-7">
                 Kami terbuka untuk kolaborasi, pertanyaan seputar proyek, atau sekadar menyapa.
-                Kelas R4A selalu dengan senang hati mendengar dari Anda.
+                Kelas RA selalu dengan senang hati mendengar dari Anda.
               </p>
 
               <div className="space-y-4 mb-7">
@@ -102,7 +102,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="text-xs text-gray-500 font-mono mb-0.5">Email</div>
-                    <div className="text-gray-300 text-sm">r4a@unindra.ac.id</div>
+                    <div className="text-gray-300 text-sm">ra@unindra.ac.id</div>
                   </div>
                 </div>
               </div>
