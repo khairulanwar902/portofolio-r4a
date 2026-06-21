@@ -14,14 +14,14 @@ import {
 const REAL_PHOTOS = [
   {
     id: 'p1',
-    src: '/foto-kelas-1.jpeg',
+    src: '/foto-kelas-1.jpg',
     title: 'Foto Bersama Kelas R4A',
     caption: 'Momen kebersamaan di akhir semester bersama dosen tercinta 🙏',
     category: 'Foto Kelas',
   },
   {
     id: 'p2',
-    src: '/foto-kelas-2.jpeg',
+    src: '/foto-kelas-2.jpg',
     title: 'Foto Bersama Kelas R4A',
     caption: 'Kenangan indah bersama dosen yang selalu membimbing kami ❤️',
     category: 'Foto Kelas',

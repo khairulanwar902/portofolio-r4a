@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import { FaCrown } from 'react-icons/fa'
 
 const MEMBERS = [
-  { id: 1,  name: 'Addela Dwi Puspita',        role: 'Ketua Kelas', color: 'from-yellow-500 to-amber-600',   photo: '/foto-addela-dwi.jpeg' },
+  { id: 1,  name: 'Addela Dwi Puspita',         role: 'Ketua Kelas', color: 'from-yellow-500 to-amber-600',   photo: '/foto-addela-dwi.jpeg' },
   { id: 2,  name: 'Adella Kartika',             role: 'Anggota',     color: 'from-blue-500 to-indigo-600',   photo: '/foto-adella-kartika.jpeg' },
   { id: 3,  name: 'Muhammad Rici Fernanda',     role: 'Anggota',     color: 'from-violet-500 to-purple-600', photo: '/foto-rici-fernanda.jpeg' },
   { id: 4,  name: 'Armen Ardiansyah',           role: 'Anggota',     color: 'from-cyan-500 to-blue-600',     photo: '/foto-armen.jpeg' },
