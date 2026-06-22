@@ -5,7 +5,7 @@ import { FaPlay, FaPause, FaVolumeUp, FaVolumeMute, FaMusic } from 'react-icons/
 const TRACKS = [
   {
     title: 'Laskar Pelangi',
-    artist: 'Hindia',
+    artist: 'Nidji',
     url: '/music.mp3',
   },
 ]
