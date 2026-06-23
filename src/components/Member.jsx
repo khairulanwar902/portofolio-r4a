@@ -22,6 +22,7 @@ const MEMBERS = [
   { id: 17, name: 'Najmi Mahdiyah',             role: 'Anggota',     color: 'from-violet-500 to-fuchsia-600',photo: '/foto-najmi.jpeg' },
   { id: 18, name: 'Della Tri Anggraeni',        role: 'Anggota',     color: 'from-pink-500 to-fuchsia-600',  photo: '/foto-della.jpeg' },
   { id: 19, name: 'Abi Hanifah PrimaSeta',      role: 'Anggota',     color: 'from-sky-500 to-blue-600',      photo: '/foto-abi.jpeg' },
+  { id: 20, name: 'Muhamad Khairul Anwar',      role: 'Anggota',     color: 'from-primary-500 to-accent-600',photo: '/foto-khairul.jpeg' },
 ]
 
 function getInitials(name) {
